@@ -1,0 +1,2 @@
+timestamp,engine,precision,batch,power,frames,warmup,mean_ms,p50_ms,p95_ms,p99_ms,min_ms,max_ms,fps
+2026-11-03T14:57:35,models/resnet18_fp32.engine,fp32,1,MODE_20W_6CORE,3000,100,5.16248,5.1549,5.23583,5.31135,5.09218,5.77772,193.691
